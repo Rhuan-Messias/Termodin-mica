@@ -1,2 +1,2 @@
-# Termodin-mica
+# Termodinamica
 Exercícios de Termodinâmica Aplicada - Engenharia Química 
